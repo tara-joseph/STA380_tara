@@ -1,6 +1,6 @@
 ---
 title: "Intro to neural networks"
-author: "James Scott"
+author: "David Puelz"
 output: beamer_presentation
 urlcolor: blue 
 ---

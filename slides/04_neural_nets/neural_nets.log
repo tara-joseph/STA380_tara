@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.17)  21 JUL 2023 14:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.29)  26 JUL 2023 10:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -663,6 +663,14 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \pgfphysicalheight=\dimen294
 \pgfphysicalwidth=\dimen295
 \pgfpages@shipoutbox=\box75
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks45
+\inpenc@posthook=\toks46
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -697,18 +705,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
-12.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmss.fd
-File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks45
-\inpenc@posthook=\toks46
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
@@ -744,32 +740,36 @@ File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
 )) (/usr/local/texlive/2022/texmf-dist/tex/latex/xurl/xurl.sty
 Package: xurl 2022/01/09 v 0.10 modify URL breaks
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 108.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+Package hyperref Info: Option `colorlinks' set `true' on input line 111.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
+17.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count345
 \l__pdf_internal_box=\box77
 ) (./neural_nets.aux)
 \openout1 = `neural_nets.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -825,7 +825,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 114.
+Package hyperref Info: Link coloring ON on input line 117.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -837,55 +837,55 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count352
 )
-LaTeX Info: Redefining \ref on input line 114.
-LaTeX Info: Redefining \pageref on input line 114.
-LaTeX Info: Redefining \nameref on input line 114.
+LaTeX Info: Redefining \ref on input line 117.
+LaTeX Info: Redefining \pageref on input line 117.
+LaTeX Info: Redefining \nameref on input line 117.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 114.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 117.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 114.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 117.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 114.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 117.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 114.
+(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 117.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 114.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 114.
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 117.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 114.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 114.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 114.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 117.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 114.
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 114.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 114.
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 117.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 114.
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 114.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 114.
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 117.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 114.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 114.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 117.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 114.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 117.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 114.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 114.
+(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 114.
+(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 114.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 114.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 117.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 114.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 117.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -911,12 +911,12 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \microtypecontext on input line 114.
-Package microtype Info: Applying patch `item' on input line 114.
-Package microtype Info: Applying patch `toc' on input line 114.
-Package microtype Info: Applying patch `eqnum' on input line 114.
+LaTeX Info: Redefining \microtypecontext on input line 117.
+Package microtype Info: Applying patch `item' on input line 117.
+Package microtype Info: Applying patch `toc' on input line 117.
+Package microtype Info: Applying patch `eqnum' on input line 117.
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 114.
+Package microtype Warning: Unable to apply patch `footnote' on input line 117.
 
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -924,7 +924,7 @@ Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 114.
+LaTeX Info: Redefining \showhyphens on input line 117.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -936,7 +936,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-144.
+147.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -945,34 +945,34 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-44.
+47.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-144.
+147.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-144.
+147.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 144.
+(Font)              <10.95> on input line 147.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 144.
+(Font)              <8> on input line 147.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 144.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 144
+(Font)              <6> on input line 147.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 147
 .
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 144
+LaTeX Font Info:    Trying to load font information for U+msb on input line 147
 .
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -980,30 +980,30 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 144.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 147.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 144.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 147.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 144.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 147.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 144.
+(Font)              <10> on input line 147.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 144.
+(Font)              <7> on input line 147.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 144.
+(Font)              <5> on input line 147.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 144.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 147.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 144.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 147.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 144.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 147.
 [2
 
 ]
 <fig/pitts.png, id=28, 352.31625pt x 146.5475pt>
 File: fig/pitts.png Graphic file (type png)
 <use fig/pitts.png>
-Package pdftex.def Info: fig/pitts.png  used on input line 164.
+Package pdftex.def Info: fig/pitts.png  used on input line 167.
 (pdftex.def)             Requested size: 122.9147pt x 51.1269pt.
 [3
 
@@ -1011,7 +1011,7 @@ Package pdftex.def Info: fig/pitts.png  used on input line 164.
 <fig/NMAH-72-361.jpg, id=37, 1003.75pt x 789.95125pt>
 File: fig/NMAH-72-361.jpg Graphic file (type jpg)
 <use fig/NMAH-72-361.jpg>
-Package pdftex.def Info: fig/NMAH-72-361.jpg  used on input line 185.
+Package pdftex.def Info: fig/NMAH-72-361.jpg  used on input line 188.
 (pdftex.def)             Requested size: 169.01175pt x 133.01224pt.
 [4
 
@@ -1020,15 +1020,15 @@ Package pdftex.def Info: fig/NMAH-72-361.jpg  used on input line 185.
 File: fig/Colored_neural_network.svg.png Graphic file (type png)
 <use fig/Colored_neural_network.svg.png>
 Package pdftex.def Info: fig/Colored_neural_network.svg.png  used on input line
- 216.
+ 219.
 (pdftex.def)             Requested size: 89.47958pt x 107.65512pt.
 [5
 
  <./fig/Colored_neural_network.svg.png>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 267.
+(Font)              <9> on input line 270.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 267.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 270.
 [6
 
 ] [7
@@ -1038,13 +1038,13 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
 File: fig/600px-artificial-neuron-model.png Graphic file (type png)
 <use fig/600px-artificial-neuron-model.png>
 Package pdftex.def Info: fig/600px-artificial-neuron-model.png  used on input l
-ine 337.
+ine 340.
 (pdftex.def)             Requested size: 235.94254pt x 121.11717pt.
 [8
 
  <./fig/600px-artificial-neuron-model.png>]
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 36
-2.
+5.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -1058,11 +1058,11 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 <fig/activation-functions3.jpg, id=97, 791.95876pt x 530.98375pt>
 File: fig/activation-functions3.jpg Graphic file (type jpg)
 <use fig/activation-functions3.jpg>
-Package pdftex.def Info: fig/activation-functions3.jpg  used on input line 419.
+Package pdftex.def Info: fig/activation-functions3.jpg  used on input line 422.
 
 (pdftex.def)             Requested size: 307.29172pt x 206.02954pt.
 
-Overfull \vbox (3.90085pt too high) detected at line 419
+Overfull \vbox (3.90085pt too high) detected at line 422
  []
 
 [11
@@ -1107,7 +1107,7 @@ actual output[]
 File: fig/image_classification-62.png Graphic file (type png)
 <use fig/image_classification-62.png>
 Package pdftex.def Info: fig/image_classification-62.png  used on input line 67
-0.
+3.
 (pdftex.def)             Requested size: 215.31561pt x 121.11502pt.
 [21
 
@@ -1119,7 +1119,7 @@ ver.png Graphic file (type png)
 <use fig/627d124572023b6948b6cdff_60ed9a4e09e2c648f1b8a013_object-detection-cov
 er.png>
 Package pdftex.def Info: fig/627d124572023b6948b6cdff_60ed9a4e09e2c648f1b8a013_
-object-detection-cover.png  used on input line 692.
+object-detection-cover.png  used on input line 695.
 (pdftex.def)             Requested size: 150.17769pt x 121.11104pt.
 [22
 
@@ -1129,7 +1129,7 @@ r.png>]
 File: fig/1*f6Uhb8MI4REGcYKkYM9OUQ.png Graphic file (type png)
 <use fig/1*f6Uhb8MI4REGcYKkYM9OUQ.png>
 Package pdftex.def Info: fig/1*f6Uhb8MI4REGcYKkYM9OUQ.png  used on input line 7
-12.
+15.
 (pdftex.def)             Requested size: 172.78253pt x 134.56711pt.
 [23
 
@@ -1138,7 +1138,7 @@ Package pdftex.def Info: fig/1*f6Uhb8MI4REGcYKkYM9OUQ.png  used on input line 7
 File: fig/1*Zx-ZMLKab7VOCQTxdZ1OAw.png Graphic file (type png)
 <use fig/1*Zx-ZMLKab7VOCQTxdZ1OAw.png>
 Package pdftex.def Info: fig/1*Zx-ZMLKab7VOCQTxdZ1OAw.png  used on input line 7
-33.
+36.
 (pdftex.def)             Requested size: 192.62561pt x 107.65431pt.
 [24
 
@@ -1146,7 +1146,7 @@ Package pdftex.def Info: fig/1*Zx-ZMLKab7VOCQTxdZ1OAw.png  used on input line 7
 <fig/pool.png, id=197, 377.41pt x 134.5025pt>
 File: fig/pool.png Graphic file (type png)
 <use fig/pool.png>
-Package pdftex.def Info: fig/pool.png  used on input line 752.
+Package pdftex.def Info: fig/pool.png  used on input line 755.
 (pdftex.def)             Requested size: 226.56868pt x 80.74521pt.
 [25
 
@@ -1157,7 +1157,7 @@ Package pdftex.def Info: fig/pool.png  used on input line 752.
 File: fig/1*6hF97Upuqg_LdsqWY6n_wg.png Graphic file (type png)
 <use fig/1*6hF97Upuqg_LdsqWY6n_wg.png>
 Package pdftex.def Info: fig/1*6hF97Upuqg_LdsqWY6n_wg.png  used on input line 7
-91.
+94.
 (pdftex.def)             Requested size: 307.28523pt x 42.09665pt.
 [27
 
@@ -1172,7 +1172,7 @@ Package pdftex.def Info: fig/1*6hF97Upuqg_LdsqWY6n_wg.png  used on input line 7
 <fig/rnn.png, id=232, 953.5625pt x 377.41pt>
 File: fig/rnn.png Graphic file (type png)
 <use fig/rnn.png>
-Package pdftex.def Info: fig/rnn.png  used on input line 835.
+Package pdftex.def Info: fig/rnn.png  used on input line 838.
 (pdftex.def)             Requested size: 307.28511pt x 121.62021pt.
 [30
 
@@ -1182,7 +1182,7 @@ Package pdftex.def Info: fig/rnn.png  used on input line 835.
 <fig/rnn_seq_to_seq.jpeg, id=247, 1405.25pt x 658.46pt>
 File: fig/rnn_seq_to_seq.jpeg Graphic file (type jpg)
 <use fig/rnn_seq_to_seq.jpeg>
-Package pdftex.def Info: fig/rnn_seq_to_seq.jpeg  used on input line 887.
+Package pdftex.def Info: fig/rnn_seq_to_seq.jpeg  used on input line 890.
 (pdftex.def)             Requested size: 229.7549pt x 107.65657pt.
 [32
 
@@ -1216,11 +1216,11 @@ Package pdftex.def Info: fig/rnn_seq_to_seq.jpeg  used on input line 887.
 
 (./neural_nets.aux) ) 
 Here is how much of TeX's memory you used:
- 25301 strings out of 478268
- 489309 string characters out of 5846347
+ 25303 strings out of 478268
+ 489334 string characters out of 5846347
  783635 words of memory out of 5000000
- 42674 multiletter control sequences out of 15000+600000
- 570258 words of font info for 164 fonts, out of 8000000 for 9000
+ 42675 multiletter control sequences out of 15000+600000
+ 571031 words of font info for 165 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,11n,122p,1008b,598s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-
@@ -1243,7 +1243,7 @@ lmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy6.pfb>
 22/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2022/texmf-d
 ist/fonts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2022/texmf-dist/fonts/t
 ype1/public/amsfonts/symbols/msam10.pfb>
-Output written on neural_nets.pdf (38 pages, 3050850 bytes).
+Output written on neural_nets.pdf (38 pages, 3050863 bytes).
 PDF statistics:
  399 PDF objects out of 1000 (max. 8388607)
  291 compressed objects within 3 object streams
