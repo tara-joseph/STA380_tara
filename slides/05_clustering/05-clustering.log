@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.29)  26 JUL 2023 10:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.29)  3 AUG 2023 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1295,7 +1295,7 @@ art = 50)[]
 <fig/hier/toy_tree.png, id=398, 892.33376pt x 370.38374pt>
 File: fig/hier/toy_tree.png Graphic file (type png)
 <use fig/hier/toy_tree.png>
-Package pdftex.def Info: fig/hier/toy_tree.png  used on input line 866.
+Package pdftex.def Info: fig/hier/toy_tree.png  used on input line 864.
 (pdftex.def)             Requested size: 276.03513pt x 114.57475pt.
 [50
 
@@ -1305,7 +1305,7 @@ Package pdftex.def Info: fig/hier/toy_tree.png  used on input line 866.
 <fig/hier/language.png, id=412, 748.7975pt x 562.1pt>
 File: fig/hier/language.png Graphic file (type png)
 <use fig/hier/language.png>
-Package pdftex.def Info: fig/hier/language.png  used on input line 897.
+Package pdftex.def Info: fig/hier/language.png  used on input line 895.
 (pdftex.def)             Requested size: 301.12471pt x 226.04536pt.
 [52
 
@@ -1317,7 +1317,7 @@ Package pdftex.def Info: fig/hier/language.png  used on input line 897.
 <fig/hier/proxmat1.png, id=432, 675.52374pt x 387.4475pt>
 File: fig/hier/proxmat1.png Graphic file (type png)
 <use fig/hier/proxmat1.png>
-Package pdftex.def Info: fig/hier/proxmat1.png  used on input line 961.
+Package pdftex.def Info: fig/hier/proxmat1.png  used on input line 959.
 (pdftex.def)             Requested size: 301.12766pt x 172.71214pt.
 [55
 
@@ -1325,7 +1325,7 @@ Package pdftex.def Info: fig/hier/proxmat1.png  used on input line 961.
 <fig/hier/proxmat2.png, id=441, 624.4128pt x 351.714pt>
 File: fig/hier/proxmat2.png Graphic file (type png)
 <use fig/hier/proxmat2.png>
-Package pdftex.def Info: fig/hier/proxmat2.png  used on input line 968.
+Package pdftex.def Info: fig/hier/proxmat2.png  used on input line 966.
 (pdftex.def)             Requested size: 301.12485pt x 169.61508pt.
 [56
 
@@ -1333,7 +1333,7 @@ Package pdftex.def Info: fig/hier/proxmat2.png  used on input line 968.
 <fig/hier/proxmat3.png, id=449, 588.1975pt x 341.275pt>
 File: fig/hier/proxmat3.png Graphic file (type png)
 <use fig/hier/proxmat3.png>
-Package pdftex.def Info: fig/hier/proxmat3.png  used on input line 975.
+Package pdftex.def Info: fig/hier/proxmat3.png  used on input line 973.
 (pdftex.def)             Requested size: 301.12558pt x 174.7145pt.
 [57
 
@@ -1341,7 +1341,7 @@ Package pdftex.def Info: fig/hier/proxmat3.png  used on input line 975.
 <fig/hier/proxmat4.png, id=458, 621.7629pt x 358.7001pt>
 File: fig/hier/proxmat4.png Graphic file (type png)
 <use fig/hier/proxmat4.png>
-Package pdftex.def Info: fig/hier/proxmat4.png  used on input line 982.
+Package pdftex.def Info: fig/hier/proxmat4.png  used on input line 980.
 (pdftex.def)             Requested size: 301.12772pt x 173.72304pt.
 [58
 
@@ -1349,7 +1349,7 @@ Package pdftex.def Info: fig/hier/proxmat4.png  used on input line 982.
 <fig/hier/proxmat5.png, id=466, 353.8821pt x 162.8484pt>
 File: fig/hier/proxmat5.png Graphic file (type png)
 <use fig/hier/proxmat5.png>
-Package pdftex.def Info: fig/hier/proxmat5.png  used on input line 994.
+Package pdftex.def Info: fig/hier/proxmat5.png  used on input line 992.
 (pdftex.def)             Requested size: 301.13057pt x 138.57336pt.
 [59
 
@@ -1357,7 +1357,7 @@ Package pdftex.def Info: fig/hier/proxmat5.png  used on input line 994.
 <fig/hier/linkage_min.png, id=474, 350.5095pt x 174.6525pt>
 File: fig/hier/linkage_min.png Graphic file (type png)
 <use fig/hier/linkage_min.png>
-Package pdftex.def Info: fig/hier/linkage_min.png  used on input line 1001.
+Package pdftex.def Info: fig/hier/linkage_min.png  used on input line 999.
 (pdftex.def)             Requested size: 276.03839pt x 137.54489pt.
 [60
 
@@ -1365,7 +1365,7 @@ Package pdftex.def Info: fig/hier/linkage_min.png  used on input line 1001.
 <fig/hier/linkage_max.png, id=482, 337.5009pt x 153.9351pt>
 File: fig/hier/linkage_max.png Graphic file (type png)
 <use fig/hier/linkage_max.png>
-Package pdftex.def Info: fig/hier/linkage_max.png  used on input line 1008.
+Package pdftex.def Info: fig/hier/linkage_max.png  used on input line 1006.
 (pdftex.def)             Requested size: 276.03156pt x 125.89874pt.
 [61
 
@@ -1373,7 +1373,7 @@ Package pdftex.def Info: fig/hier/linkage_max.png  used on input line 1008.
 <fig/hier/linkage_avg.png, id=491, 352.1958pt x 162.3666pt>
 File: fig/hier/linkage_avg.png Graphic file (type png)
 <use fig/hier/linkage_avg.png>
-Package pdftex.def Info: fig/hier/linkage_avg.png  used on input line 1015.
+Package pdftex.def Info: fig/hier/linkage_avg.png  used on input line 1013.
 (pdftex.def)             Requested size: 276.03365pt x 127.2549pt.
 [62
 
@@ -1381,7 +1381,7 @@ Package pdftex.def Info: fig/hier/linkage_avg.png  used on input line 1015.
 <fig/hier/linkage_centroid.png, id=499, 322.5651pt x 148.6353pt>
 File: fig/hier/linkage_centroid.png Graphic file (type png)
 <use fig/hier/linkage_centroid.png>
-Package pdftex.def Info: fig/hier/linkage_centroid.png  used on input line 1022
+Package pdftex.def Info: fig/hier/linkage_centroid.png  used on input line 1020
 .
 (pdftex.def)             Requested size: 276.03227pt x 127.19336pt.
 [63
@@ -1397,7 +1397,7 @@ Package pdftex.def Info: fig/hier/linkage_centroid.png  used on input line 1022
 <fig/spectral/64690spect.png, id=519, 1417.295pt x 407.5225pt>
 File: fig/spectral/64690spect.png Graphic file (type png)
 <use fig/spectral/64690spect.png>
-Package pdftex.def Info: fig/spectral/64690spect.png  used on input line 1072.
+Package pdftex.def Info: fig/spectral/64690spect.png  used on input line 1070.
 (pdftex.def)             Requested size: 307.286pt x 88.35559pt.
 [66
 
@@ -1405,7 +1405,7 @@ Package pdftex.def Info: fig/spectral/64690spect.png  used on input line 1072.
 <fig/spectral/spectral2.jpg, id=526, 1125.20375pt x 346.29375pt>
 File: fig/spectral/spectral2.jpg Graphic file (type jpg)
 <use fig/spectral/spectral2.jpg>
-Package pdftex.def Info: fig/spectral/spectral2.jpg  used on input line 1093.
+Package pdftex.def Info: fig/spectral/spectral2.jpg  used on input line 1091.
 (pdftex.def)             Requested size: 307.27725pt x 94.56792pt.
 [67
 
@@ -1414,7 +1414,7 @@ Package pdftex.def Info: fig/spectral/spectral2.jpg  used on input line 1093.
 File: fig/spectral/800px-028k8Epsilon.png Graphic file (type png)
 <use fig/spectral/800px-028k8Epsilon.png>
 Package pdftex.def Info: fig/spectral/800px-028k8Epsilon.png  used on input lin
-e 1115.
+e 1113.
 (pdftex.def)             Requested size: 153.4354pt x 80.74538pt.
 [68
 
@@ -1470,7 +1470,7 @@ ist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2022/texmf-dist/fonts/
 type1/public/lm/lmtt9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publi
 c/lm/lmtti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfont
 s/symbols/msam10.pfb>
-Output written on 05-clustering.pdf (72 pages, 3008299 bytes).
+Output written on 05-clustering.pdf (72 pages, 3007855 bytes).
 PDF statistics:
  703 PDF objects out of 1000 (max. 8388607)
  509 compressed objects within 6 object streams

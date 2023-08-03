@@ -579,9 +579,6 @@ Pros and cons:
 
 Note: I've generally had the most luck with the gap statistic as a model-selection heuristic.  But don't be afraid to just pick a value of $K$ that seems reasonable to you!  
 
-__To sum up, I'll tell you my Spotify K-means story.__
-
-
 
 # Hierarchical clustering
 
