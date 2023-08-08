@@ -162,7 +162,7 @@ p1 + geom_line(aes(x=yday(time), y=PC2)) + facet_wrap(~year(time))
 # remember what PC2 represented!
 # it's high when the Gulf Coast is hotter than other areas,
 # relative to average temps
-p0 + geom_point(data=station_data, aes(x=lon.1, y=lat.1, color=PC2)) 
+p0 + geom_point(data=station_data, aes(x=x, y=y, color=PC2)) 
 
 # PC3 score over time
 # maybe a little periodic?
