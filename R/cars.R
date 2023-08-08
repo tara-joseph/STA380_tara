@@ -3,6 +3,7 @@ library(ClusterR)  # for kmeans++
 library(foreach)
 library(mosaic)
 
+set.seed(1)
 cars = read.csv('../data/cars.csv', header=TRUE)
 
 summary(cars)
@@ -19,7 +20,7 @@ sigma = attr(X,"scaled:scale")
 clust1 = kmeans(X, 6, nstart=25)
 
 # What are the clusters?
-clust1$center  # not super helpful
+round(clust1$center,3)  # not super helpful
 clust1$center[1,]*sigma + mu
 clust1$center[2,]*sigma + mu
 clust1$center[4,]*sigma + mu

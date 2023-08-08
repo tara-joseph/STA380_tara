@@ -40,7 +40,7 @@ which(cluster2 == 3)
 
 
 ## Now the cars data
-cars = read.csv('../data/cars.csv', header=TRUE)
+cars = read.csv('../data/cars.csv',header=TRUE)
 
 summary(cars)
 
@@ -68,3 +68,6 @@ which(cluster1 == 9)
 # Plot the dendrogram
 plot(h1, cex=0.3)
 
+# Now run hierarchical clustering
+h2 = hclust(distance_between_cars, method='single')
+plot(h2, cex=0.3)
