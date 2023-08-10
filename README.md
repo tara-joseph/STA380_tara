@@ -133,12 +133,13 @@ Scripts and data:
 
 ### (9) Treatment effects
 
-Treatment effects; multi-armed bandits and Thompson sampling; high-dimensional treatment effects with the lasso.  
+Causal ML.  
 
 Slides:  
-- [Treatments](slides/Treatments.pdf).   
+- [Treatments](slides/causalML.pdf).   
 
-Scripts and data:  
+Scripts and data:
+- [levitt.R](R/levitt.R) and [levitt data](data/levitt_ex.dat)
 - [mab.R](R/mab.R) and [Ads_CTR_Optimisation.csv](data/Ads_CTR_Optimisation.csv)  
 - [hockey.R](R/hockey.R) and all files in `data/hockey/`  
 - [smallbeer.R](R/smallbeer.R) and [smallbeer.csv](data/smallbeer.csv)  
