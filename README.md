@@ -9,7 +9,7 @@ Instructors:
 
 ## Exercises
 
-The exercises are [available here](exercises/).  These are due Monday, August 14th at 5 PM, U.S central time.  Pace yourself over the next few weeks, and start early on the first couple of problems!  
+The exercises are [available here](exercises/).  These are due Sunday, August 18th at 11:59 PM, U.S central time.  Pace yourself over the next few weeks, and start early on the first couple of problems!  
  
 
 ## Outline of topics  
