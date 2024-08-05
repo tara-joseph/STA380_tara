@@ -96,7 +96,7 @@ knitr::opts_chunk$set(cache = TRUE)
 
 - Input values: $x_1, x_2, \dots, x_n$
 - Weights and bias: $w_1, w_2, \dots, w_n$ and $b$  
-- Weighted sum: $v = w_1x_1 + w_2x_2 + \dots + w_nx_n + b$  
+- Weighted sum: $z = w_1x_1 + w_2x_2 + \dots + w_nx_n + b$  
 - Activation function: $\phi$
 - Output: $y = \phi(z)$
 
@@ -153,7 +153,7 @@ $$
 1. Calculate weighted sum:
    - $z_j^{(l)} = \sum_{i} W_{ij}^{(l-1)} a_i^{(l-1)} + b_j^{(l)}$
 2. Apply activation function:
-   - $a_j^{(l)} = f(z_j^{(l)})$
+   - $a_j^{(l)} = \phi(z_j^{(l)})$
 3. Propagate recursively from input to output layer
 
 
