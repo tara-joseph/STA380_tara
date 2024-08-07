@@ -13,8 +13,8 @@ n <- 100
 x <- rnorm(n, mean = 0, sd = 1)
 
 # Define coefficients
-beta_0 <- 2  # Intercept
-beta_1 <- 3  # Slope
+beta_0 <- -13  # Intercept
+beta_1 <- 43  # Slope
 
 # Generate response variable y with some random noise
 y <- beta_0 + beta_1 * x + rnorm(n, mean = 0, sd = 1)
@@ -22,9 +22,13 @@ y <- beta_0 + beta_1 * x + rnorm(n, mean = 0, sd = 1)
 # Combine into a data frame
 data <- data.frame(x = x, y = y)
 
-# Display the first few rows of the data
-head(data)
+# scatter the data
 plot(data)
+
+# we can stop right here and compute estimates using OLS!!
+fit = lm(y~x)
+summary(fit)
+
 
 # Mean Squared Error function
 mse <- function(y, y_pred) {
