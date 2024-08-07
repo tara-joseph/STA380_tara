@@ -4,7 +4,7 @@
 
 Instructors:  
 - Dr. James Scott.  Office hours on M T W, 12:30 to 1:15 PM, CBA 6.478.  
-- Dr. David Puelz.  Office hours on M T W, 4-4:45p in CBA 6.444.  
+- Dr. David Puelz.  Office hours on M T W, 4-4:45p in GSB 5.136.  
 
 
 Students in both sections are welcome to attend either set of office hours!  
