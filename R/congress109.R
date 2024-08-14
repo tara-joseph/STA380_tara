@@ -9,6 +9,7 @@ Z = countdata/rowSums(countdata)
 
 # PCA
 pc2 = prcomp(Z, scale=TRUE, rank=2)
+summary(pc2)
 loadings = pc2$rotation
 scores = pc2$x
 

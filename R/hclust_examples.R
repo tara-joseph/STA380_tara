@@ -22,7 +22,7 @@ summary(factor(cluster1))
 # Examine the cluster members
 which(cluster1 == 1)
 which(cluster1 == 2)
-which(cluster1 == 3)
+which(cluster1 == 5)
 
 
 # Using max ("complete") linkage instead
@@ -36,7 +36,7 @@ summary(factor(cluster2))
 # Examine the cluster members
 which(cluster2 == 1)
 which(cluster2 == 2)
-which(cluster2 == 3)
+which(cluster2 == 4)
 
 
 ## Now the cars data

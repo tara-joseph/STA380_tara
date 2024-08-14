@@ -62,7 +62,7 @@ ggplot(D2) + geom_point(aes(x=X1, y=X2, col=factor(z)))
 
 # Run hierarchical clustering with average linkage
 h3 = hclust(x_dist, method='average')
-c3 = cutree(h3, 2)
+c3 = cutree(h3, 3)
 D3 = data.frame(x, z = c3)
 ggplot(D3) + geom_point(aes(x=X1, y=X2, col=factor(z)))
 
